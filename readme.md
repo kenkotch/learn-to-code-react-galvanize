@@ -11,13 +11,10 @@ Dependencies
 - Install create-react-app https://www.npmjs.com/package/create-react-app
 - Read React tutorial: https://reactjs.org/tutorial/tutorial.html
 
-Warmup (10m)  
-https://repl.it/@ohHeyHiSean/ExtendsSuperES6
-
-6:40-7:00 Lesson (20m)
-7:00-7:20 Code Along (20m)
-7:20-7:40 Group Work (20m)
-7:40-8:00 Sharing, Q&A, Discussion (20m)
+6:30-6:50 Lesson
+6:50-7:20 Code Along
+7:20-7:40 Group Work
+7:40-8:00 Sharing, Q&A, Discussion
 
 ## Setup
 
