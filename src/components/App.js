@@ -1,8 +1,8 @@
-import React, { Component } from 'react';
-import './App.css';
-import AddCardForm from './components/AddCardForm'
-import CardList from './components/CardList'
-import CardData from './components/CardData.json'
+import React, { Component } from 'react'
+import './App.css'
+import AddCardForm from './AddCardForm'
+import CardList from './CardList'
+import CardData from './CardData.json'
 
 class App extends Component {
   constructor(props) {
@@ -12,7 +12,7 @@ class App extends Component {
     }
   }
 
-  addCard = (card) => {
+  addCard = card => {
     console.log('adding card >>>', card)
     this.setState({
       cards: this.state.cards.concat(card)
@@ -22,11 +22,11 @@ class App extends Component {
   render() {
     return (
       <div>
-        <CardList title="Ken's ToDo List" cards={ this.state.cards } />
+        <CardList title="Ken's To Do List" cards={ this.state.cards } />
         <AddCardForm addCard={ this.addCard } />
       </div>
-    );
+    )
   }
 }
 
-export default App;
+export default App

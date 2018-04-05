@@ -7,7 +7,6 @@ Welcome to Galvanize! Are you ready to learn React?
 6:00-6:30p Welcome, Intros, Setup (30m)
 
 Dependencies
-- Install Node.js https://nodejs.org/en/download/
 - Install Atom https://atom.io/
 - Install create-react-app https://www.npmjs.com/package/create-react-app
 - Read React tutorial: https://reactjs.org/tutorial/tutorial.html
@@ -15,22 +14,24 @@ Dependencies
 Warmup (10m)  
 https://repl.it/@ohHeyHiSean/ExtendsSuperES6
 
-6:40-7:00 Lesson (20m)  
-7:00-7:20 Code Along (20m)  
-7:20-7:40 Group Work (20m)  
+6:40-7:00 Lesson (20m)
+7:00-7:20 Code Along (20m)
+7:20-7:40 Group Work (20m)
 7:40-8:00 Sharing, Q&A, Discussion (20m)
 
 ## Setup
 
-Creact New Project
+ #### Create New Project
 `create-react-app app-name`
 
-Then to start, run `npm start` or `yarn start`
+ - Clone this repo, then `npm i` or `yarn`
+ - Then to start, run `npm start` or `yarn start`
 
 Files will be watched and built continuously until you quit the command
 
 ## Tasks to Complete Tonight
 
+- Create React App
 - Render todo list
 - Add new todo's
 
