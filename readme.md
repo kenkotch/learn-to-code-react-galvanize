@@ -4,7 +4,7 @@ Welcome to Galvanize! Are you ready to learn React?
 
 ## Agenda
 
-6:00-6:30p Welcome, Intros, Setup (30m)
+6:00-6:30p Welcome, Intros, Setup
 
 Dependencies
 - Install Atom https://atom.io/
@@ -12,8 +12,11 @@ Dependencies
 - Read React tutorial: https://reactjs.org/tutorial/tutorial.html
 
 6:30-6:50 Lesson
+
 6:50-7:20 Code Along
+
 7:20-7:40 Group Work
+
 7:40-8:00 Sharing, Q&A, Discussion
 
 ## Setup
